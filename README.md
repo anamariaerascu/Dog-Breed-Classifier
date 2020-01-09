@@ -1,7 +1,7 @@
 # Udacity-Dog-Breed-Classifier
 Udacity Deep Learning Nanodegree CNN Project
 
-Original repo for this project can be found [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-bikesharing).
+Original repo for this project can be found [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification).
 
 ## Objective
 Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
